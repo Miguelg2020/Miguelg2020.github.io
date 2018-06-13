@@ -1,0 +1,19 @@
+body {
+  background-color:  #33ffff;
+ }
+ h1{
+   font-size: 90;
+ color: red;
+}
+ h2{
+   font-size: 2.5;
+   color: #0039e6;
+ }
+ h3{
+   font-size: 3.5;
+   color: #0039e6
+ }
+ p{
+   font-style: italic
+
+ }
